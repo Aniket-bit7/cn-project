@@ -1,0 +1,5 @@
+export team="goodgoys"
+export node_1="10.7.20.219" 
+export node_2="10.7.20.151"
+export node_3="10.7.25.240" 
+export node_4="10.7.6.187"
